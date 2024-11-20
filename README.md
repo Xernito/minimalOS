@@ -37,7 +37,7 @@ Unterstützte Architekturen: amd64, arm64, i386 (32bit)
 
 ```bash
 sudo apt install syslinux-utils
-git clone https://github.com/Jean28518/minimalOS.git
+git clone https://github.com/Xernito/minimalOS.git
 cd minimalOS
 ```
 
